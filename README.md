@@ -119,7 +119,7 @@ The objective of this task is to understand what makes a password strong, evalua
 
 ---
 
-# 🚨 Common Password Attacks
+#  Common Password Attacks
 
 ## 1. Brute Force Attack
 
@@ -179,12 +179,6 @@ Users are tricked into entering their passwords on fake websites or through frau
 #  Conclusion
 
 This task helped me understand the importance of creating strong passwords and evaluating their strength using online password strength checkers. Strong passwords should be long, unique, and contain a combination of uppercase letters, lowercase letters, numbers, and special characters. Avoiding predictable information such as names, dates, and common words significantly improves password security. Combining strong passwords with Multi-Factor Authentication provides better protection against unauthorized access.
-
----
-
-# 📷 Screenshots
-
-The screenshots of all tested passwords are available inside the **Screenshots** folder.
 
 ---
 
